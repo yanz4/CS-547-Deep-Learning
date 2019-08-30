@@ -105,6 +105,7 @@ HW12 (not assigned this year): Deep reinforcement learning on Atari games II usi
 
 
 <FONT SIZE="4" COLOR = #000000><b> Final Project </b></FONT>
+
 See Syllabus for a list of possible final projects. Due December 12. Examples of Final Projects: <A HREF="https://courses.engr.illinois.edu/ie534/fa2018/siqim2.pdf" target="_blank"><b> Image Captioning I </B></A>, <A HREF="https://courses.engr.illinois.edu/ie534/fa2018/Project_report.pdf" target="_blank"><b> Faster RCNN </B></A>, <A HREF="https://courses.engr.illinois.edu/ie534/fa2018/Final_report.pdf" target="_blank"><b> Image Captioning II </B></A>,  <A HREF="https://courses.engr.illinois.edu/ie534/fa2018/report_BootstrappedDQN_qchen35_hli70_mlihan2.pdf" target="_blank"><b> Deep Reinforcement Learning </B></A>.
 
 
