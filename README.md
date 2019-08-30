@@ -28,12 +28,7 @@ Teaching Assistant: Yuanyi Zhong, Xiaobo Dong, Lei Fan, Rachneet Kaur, Jyoti Ane
 <TABLE WIDTH="900" BORDER="0" CELLSPACING="0" CELLPADDING="0" ALIGN="LEFT" VALIGN="TOP">
 <TR><TD WIDTH="900" ALIGN="LEFT" VALIGN="TOP">
 
-<FONT SIZE="4" COLOR = #000000><b> What is Deep Learning? </b></FONT><p>
-<p> Deep learning has revolutionized image recognition, speech recognition, and natural language processing. There's also growing interest in applying deep learning to 
-science, engineering, medicine, and finance.  <p>
 
-<p> At a high level, deep neural networks are stacks of nonlinear operations, typically with millions of parameters. This produces a highly flexible and powerful model which has
-proved effective in many applications. The design of network architectures and optimization methods have been the focus of intense research. <p>
 
 
 <FONT SIZE="4" COLOR = #000000><b>Course overview</b></FONT><p>
